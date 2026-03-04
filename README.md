@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurubasav Yellur</h1>
 <h3 align="center">DevSecOps System Manager | Service Owner</h3>
 
-- 🌱 I’m currently learning **System Design, AI, Claude Code, Ollama**
+- 🌱 I’m currently learning **System Design, Scaling systems, enabling developers to containerise, Security & Compliance**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gurumech07](https://github.com/gurumech07)
 
